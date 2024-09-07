@@ -1,0 +1,18 @@
+<!-- simulate flowing paint -->
+<svg viewBox="0 0 50 9" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#000000" d="
+    M 0 0
+    L 0 4
+    C 2 6, 3 7, 5 4
+    S 7 1, 10 5
+    S 15 9, 20 5
+    S 24 3, 25 5
+    S 27 7, 29 6
+    S 31 2, 32 5
+    S 34 9, 36 5
+    S 41 1, 45 4
+    S 48 5, 50 4
+    L 50 0
+    Z
+  " />
+</svg>

@@ -1,0 +1,16 @@
+<!-- heart with linear gradient -->
+<svg width="50px" height="50px" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8628c3" />
+      <stop offset="100%" stop-color="#c72878" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#gradient)" d="M25 39.7l-.6-.5C11.5 28.7 8 25 8 19c0-5 4-9 9-9 4.1 0 6.4 2.3 8 4.1 1.6-1.8 3.9-4.1 8-4.1 5 0 9 4 9 9 0 6-3.5 9.7-16.4 20.2l-.6.5z"/>
+  <text x="25" y="15" font-size="6" text-anchor="middle" fill="#ffffff">
+    MagicaQB's Page
+  </text>
+  <text x="25" y="25" font-size="3" text-anchor="middle" fill="#ffffff">
+    click to enter
+  </text>
+</svg>
